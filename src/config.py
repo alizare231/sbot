@@ -33,7 +33,7 @@ auth = ("XXXXXXXXXXXX", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 # at groups that there is at least one admin on it.
 # Otherwise will leave instantly if added.
 filter_groups = False
-admins = ["XXXXXXXXXXXX", ]
+admins = ["137791771", ]
 
 
 # Bing API for image search
