@@ -46,3 +46,6 @@ The server will be running. Access http://localhost:9005 (default: admin:passwor
 
 #### To create your own views, check out ```src/router.py``` and ```src/view/basic_views.py``` for examples.
 
+
+###(این سورس برای ربات درون واتس اپ هست :)
+کانال ما : @openplugin
